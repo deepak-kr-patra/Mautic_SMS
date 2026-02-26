@@ -49,3 +49,7 @@ export default function SmsList() {
         </div>
     );
 }
+
+/**
+ * Okay
+ */
