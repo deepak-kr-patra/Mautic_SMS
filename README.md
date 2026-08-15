@@ -5,6 +5,6 @@ This basic application is intended to fetche Mautic SMS, contacts and contacts a
 ##
 
 ### Endpoints Used
-- /stats/sms_message_stats
-- /contacts/${contactId}/activity
-- /contacts/${contactId}
+- `/stats/sms_message_stats`
+- `/contacts/${contactId}/activity`
+- `/contacts/${contactId}`
